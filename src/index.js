@@ -23,4 +23,6 @@ const App = () =>{
 
 var oi1;
 
+var oioioi2;
+
 ReactDom.render(<App />, document.querySelector("#root"))
