@@ -21,5 +21,6 @@ const App = () =>{
 	);
 }
 
+var oi1;
 
 ReactDom.render(<App />, document.querySelector("#root"))
